@@ -1,7 +1,8 @@
 # Waterfall Phone Finder API
 
 Find phone numbers from public LinkedIn profile URLs with the
-[Datablist](https://www.datablist.com/) Waterfall Phone Finder API.
+Datablist
+[Waterfall Phone Finder API](https://www.datablist.com/apis/waterfall-phone-finder).
 
 Add missing phone numbers to your prospect lists and CRM contacts. The waterfall
 tries several lookup services to find a number and returns it in international
@@ -11,7 +12,10 @@ format, along with its country code when available.
 
 ## Cost
 
-**500 credits per phone number found** with the default waterfall.
+The base cost is **$1 for 1,000 credits** ($0.001 per credit, in USD).
+Larger top-up packages reduce the price per credit and per record.
+
+**500 credits ($0.50) per phone number found** with the default waterfall.
 
 **No result, no charge.** If no phone number is found, the lookup costs **0 credits**.
 Accepted cached results are also free.
@@ -258,3 +262,4 @@ limits. These examples do not batch larger lists.
 - [Impressum Scraper API](https://github.com/datablist/impressum-scraper-api): extract business details from website Impressum pages.
 - [Waterfall Email Finder API](https://github.com/datablist/waterfall-email-finder-api): find work emails from names and companies or LinkedIn URLs.
 - [Waterfall Personal Email Finder API](https://github.com/datablist/waterfall-personal-email-finder-api): find personal email addresses from LinkedIn profile URLs.
+- [Instagram Followers Scraper API](https://github.com/datablist/instagram-followers-scraper-api): scrape followers or following lists from Instagram profiles.
